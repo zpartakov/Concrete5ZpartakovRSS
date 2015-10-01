@@ -1,4 +1,4 @@
-Chesspgn, a block for Concrete5
+Concrete5ZpartakovRSS, a block for Concrete5
 ===================================================================
 
 French:
