@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="zpartakov_rss">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+		<field name="FeedTitle" type="C" size="255"></field>
+		<field name="FeedUrl" type="C" size="255"></field>
+		<field name="MaxCount" type="C" size="2"></field><!-- numeric -->
+		<field name="ShowDesc" type="C" size="4"></field><!-- true/false -->
+		<field name="ShowPubDate" type="C" size="4"></field><!-- true/false -->
+		<field name="DescCharacterLimit" type="C" size="5"></field>
+	</table>
+</schema>
